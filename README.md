@@ -1,2 +1,2 @@
 # Animation-Projects-
-This is a collection of animation projects done using Processing
+This repository contains animation and game development project done in Processing and Lua.They range from static images tp fully-fledged 2D multi-player games. 
